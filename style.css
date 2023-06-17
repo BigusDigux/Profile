@@ -11,7 +11,7 @@ body{
     color: white;
     background: linear-gradient(black, grey) ;
     border: 5px, solid;
-    width: 40%;
+    width: 50%;
     background-repeat: no-repeat;
 }
 #p1{
@@ -19,5 +19,5 @@ body{
     font-family: 'Press Start 2P', cursive;
     color: white;
     border: 5px solid greenyellow;
-    width: 50%;
+    width: 70%;
 }
