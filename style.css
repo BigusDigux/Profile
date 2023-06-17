@@ -1,0 +1,20 @@
+body{
+    background-image: url(background.jpg);
+    backdrop-filter: blur(10px);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+#heading{
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+    background: linear-gradient(black, grey) ;
+    border: 5px, solid;
+    background-repeat: no-repeat;
+}
+#p1{
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+    border: 5px solid black;
+}
