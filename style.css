@@ -8,14 +8,11 @@ body{
 }
 #heading{
     font-family: 'Press Start 2P', cursive;
-    color: #00FF73;
-    background: linear-gradient(grey, rgb(179, 177, 177)) ;
-    border: 5px, solid;
-    width: 60%;
-    background-repeat: no-repeat;
+    color: white;
+    font-size: 40px;
 }
 #p1{
-    font-size: 10px;
+    font-size: 15px;
     font-family: consolas, sans-serif;
     color: #00FF73;
     border: 5px solid white;
